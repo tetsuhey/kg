@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 121.68 130.12">
+  <defs>
+    <style>
+      .a {
+        isolation: isolate;
+      }
+
+      .b {
+        fill: #f09500;
+      }
+    </style>
+  </defs>
+  <g>
+    <g class="a">
+      <g class="a">
+        <path class="b" d="M43.55,86.06,50.72,17.6,38.05,22.47,39.4,9.39q4.05-1.71,9.45-4.51A35,35,0,0,0,56.43,0h13.7l-9,86.06Z"/>
+        <path class="b" d="M82.84,86.06l1.72-16.15h16.19L99,86.06Z"/>
+      </g>
+    </g>
+    <rect class="b" y="102.14" width="121.68" height="9.79"/>
+    <rect class="b" y="120.32" width="57.35" height="9.79"/>
+  </g>
+</svg>
