@@ -69,6 +69,7 @@ get_header();
                             <div class="col-12 myTab d-flex flex-row">
                                 <div class="tabTitle current" target="challenge">チャレンジクラス</div>
                                 <div class="tabTitle" target="elite">エリートクラス</div>
+                                <div class="tabTitle" target="kids">キッズクラス</div>
                             </div>
                         </div>
                         <div id="challenge">
@@ -142,8 +143,8 @@ get_header();
                                                 <div class="downcontent">
                                                     <p>
                                                         会場：寝屋川市近郊の体育館<br />
-                                                        U-12：18:00 - 19:45<br />
-                                                        U-15：19:15 - 21:00<br />
+                                                        U-12：18:00 - 19:30<br />
+                                                        U-15：19:30 - 21:00<br />
                                                         駐車場：あり
                                                     </p>
                                                 </div>
@@ -234,8 +235,7 @@ get_header();
                                                 <div class="downcontent">
                                                     <p>
                                                     会場：茨木市近郊の体育館<br />
-                                                    U-12：19:00 - 21:00<br />
-                                                    U-12：19:00 - 21:00<br />
+                                                    時間：19:00 - 21:00<br />
                                                     駐車場：なし
                                                     </p>
                                                 </div>
@@ -245,8 +245,7 @@ get_header();
                                                 <div class="downcontent">
                                                     <p>
                                                     会場：茨木市近郊の体育館<br />
-                                                    U-12：19:00 - 21:00<br />
-                                                    U-12：19:00 - 21:00<br />
+                                                    時間：19:00 - 21:00<br />
                                                     駐車場：なし
                                                     </p>
                                                 </div>
@@ -256,22 +255,19 @@ get_header();
                                                 <div class="downcontent">
                                                     <p>
                                                     会場：堺市近郊の体育館<br />
-                                                    U-12：19:00 - 21:00<br />
-                                                    U-12：19:00 - 21:00<br />
+                                                    時間：19:00 - 21:00<br />
                                                     駐車場：あり<br />
                                                     備考 : 18:00からスキルアップレッスンあり
                                                     </p>
                                                 </div>
                                             </div>
                                             <div class="downbox">
-                                                <p class="title bk_gray relative arrow">堺校（不定期：金曜日）</p>
+                                                <p class="title bk_gray relative arrow">堺校（毎週金曜日）</p>
                                                 <div class="downcontent">
                                                     <p>
-                                                    会場：堺市近郊の体育館<br />
-                                                    U-12：19:00 - 21:00<br />
-                                                    U-12：19:00 - 21:00<br />
-                                                    駐車場：あり<br />
-                                                    備考：現金での対応です。(¥2,000/回)
+                                                    会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
+                                                    時間：19:00 - 21:00<br />
+                                                    駐車場：あり
                                                     </p>
                                                 </div>
                                             </div>
@@ -294,6 +290,87 @@ get_header();
                                         <div class="contents">
                                             <p class="">
                                             ・他のクラスのスポット受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）<br />・特待生制度あり。
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="kids">
+                            <div class="row spacer_top_m">
+                                <div class="col-12 center">
+                                    <h3 class="bold"><small class="small">キッズクラス</small><br />ご入会案内</h3>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class='col-12 col-md-6 spacer_top_m'>
+                                    <div class="card">
+                                        <h4 class="bold">対象</h4>
+                                        <div class="contents">
+                                            <p>年長〜小学2年生<br />※年長以下の方はご相談ください。</p>
+                                            <p class="color_yellow spacer_top_s">入会特典</p>
+                                            <p>当スクール入会時にスクールTシャツをプレゼント！</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='col-12 col-md-6 spacer_top_m'>
+                                    <div class="card">
+                                        <h4 class="bold">会費</h4>
+                                        <div class="contents">
+                                            <table>
+                                                <tbody><tr class="bk_gray">
+                                                    <th>入会金</th>
+                                                    <th>年会費</th>
+                                                    <th>参加費</th>
+                                                    <th>スポーツ保険</th>
+                                                </tr><tr>
+                                                    <td>10,000円</td>
+                                                    <td>なし</td>
+                                                    <td>1,000円/回</td>
+                                                    <td>1,000円</td>
+                                                </tr></tbody>
+                                            </table>
+                                            <p class="spacer_top_s">※スポーツ保険は年度ごとに更新となります。</p>
+                                            <p>※お支払いは現金のみとなります。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='col-12 spacer_top_m'>
+                                    <div class="card">
+                                        <h4 class="bold">各校紹介</h4>
+                                        <div class="contents d-flex flex-wrap flex-column flex-lg-row">
+                                            <div class="downbox">
+                                                <p class="title bk_gray relative arrow">堺校（不定期:水曜日）</p>
+                                                <div class="downcontent">
+                                                    <p>
+                                                    会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
+                                                    時間：17:00 - 18:00<br />
+                                                    駐車場：あり<br />
+                                                    備考 : 18:00からスキルアップレッスンあり
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="downbox">
+                                                <p class="title bk_gray relative arrow">堺校（不定期:土曜、日曜日）</p>
+                                                <div class="downcontent">
+                                                    <p>
+                                                    会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
+                                                    時間：11:00 - 12:20<br />
+                                                    駐車場：あり
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class='col-12 col-md-6 spacer_top_m'>
+                                    <div class="card">
+                                        <h4 class="bold">その他</h4>
+                                        <div class="contents">
+                                            <p class="">
+                                                ・複数クラス受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）<br />
+                                                ・祝日/第５週目は基本的にお休みです。<br />
+                                                ・他のクラスのスポット受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）
                                             </p>
                                         </div>
                                     </div>
@@ -407,16 +484,6 @@ get_header();
                                 <div class="card">
                                     <h4 class="bold">各校紹介</h4>
                                     <div class="contents d-flex flex-wrap flex-column flex-lg-row">
-                                        <div class="downbox">
-                                            <p class="title bk_gray relative arrow">城南校（毎週月曜日）</p>
-                                            <div class="downcontent">
-                                                <p>
-                                                    会場：福岡市城南区近郊の体育館<br />
-                                                    時間：19:40 - 21:40<br />
-                                                    駐車場：あり
-                                                </p>
-                                            </div>
-                                        </div>
                                         <div class="downbox">
                                             <p class="title bk_gray relative">東校（毎週火曜日）</p>
                                             <div class="downcontent">

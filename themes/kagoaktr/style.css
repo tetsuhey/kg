@@ -929,7 +929,7 @@ form .btnWrap{
 #school #TOKYO .cap_img{
 	background-image: url(../kagoaktr/lib/school_tokyo.jpg);
 }
-#elite{
+#elite, #kids{
 	display: none;
 }
 #school .downbox{
