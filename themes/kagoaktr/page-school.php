@@ -97,11 +97,13 @@ get_header();
                                             <table><tbody>
                                                 <tr class="bk_gray">
                                                     <th>入会金</th>
+                                                    <th>年会費</th>
                                                     <th>月謝</th>
                                                     <th>スポーツ保険</th>
                                                 </tr>
                                                 <tr>
                                                     <td>10,000円</td>
+                                                    <td>なし</td>
                                                     <td>3,000円</td>
                                                     <td>1,000円</td>
                                                 </tr>
@@ -345,8 +347,7 @@ get_header();
                                                     <p>
                                                     会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
                                                     時間：17:00 - 18:00<br />
-                                                    駐車場：あり<br />
-                                                    備考 : 18:00からスキルアップレッスンあり
+                                                    駐車場：あり
                                                     </p>
                                                 </div>
                                             </div>
@@ -368,7 +369,7 @@ get_header();
                                         <h4 class="bold">その他</h4>
                                         <div class="contents">
                                             <p class="">
-                                                ・複数クラス受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）<br />
+                                                ・複数クラス受講可能です。<br />
                                                 ・祝日/第５週目は基本的にお休みです。<br />
                                                 ・他のクラスのスポット受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）
                                             </p>
