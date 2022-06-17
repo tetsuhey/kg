@@ -130,6 +130,43 @@ time{
 	flex-direction: column;
 	width: 50%;
 }
+.scrollable{
+	width: 100%;
+	overflow-x: scroll;
+}
+.card .contents .scrollable table.plans_tbl{
+	width: 700px;
+}
+.card .contents table.plans_tbl tbody th {
+	width: 200px;
+}
+.card .contents table.plans_tbl tbody td {
+	width: unset;
+}
+.card .contents table.plans_tbl tbody th{
+	border-right:1px solid #ddd;
+	background-color: rgb(240,250,235);
+}
+.card .contents table.plans_tbl tbody td{
+	text-align: center;
+}
+.card .contents .plans_tbl tbody .hd{
+	vertical-align: top;
+}
+.card .contents .plans_tbl tbody small a{
+	line-height: 16px;
+	display: block;
+}
+.card .contents .plans_tbl tbody{
+	display: table;
+	border-bottom: 1px solid #ddd;
+	width: 100%;
+}
+.card .contents .plans_tbl tbody tr{
+	display: table-row;
+	border-bottom: 1px solid #ddd;
+	width: 100%;
+}
 .downbox .title{
 	border-bottom: 1px solid #ddd;
 	cursor: pointer;
@@ -203,6 +240,15 @@ time{
 	.card .contents table tbody tr{
 		display: table-row;
 		width: unset;
+	}
+	.card .contents .scrollable{
+		overflow: unset;
+	}
+	.card .contents .scrollable table.plans_tbl{
+		width: 100%;
+	}
+	.card .contents table.plans_tbl tbody td, .card .contents table.plans_tbl tbody th {
+		/* width: calc(100% / 5); */
 	}
 }
 

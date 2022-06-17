@@ -53,11 +53,14 @@ get_header();
 	    						</div>
                             </div>
                             <div class="col-12 col-lg-5 spacer_top_m">
-                                <p>基本・基礎から個のスキルアップを目指す<br />「チャレンジクラス」<br />実践・応用から個のスキルアップだけでなくチームプレイに必要なバスケIQを学ぶ<br />「エリートクラス」<br />スキルや目的に応じてクラスを選択いただけます。</p>
+                                <p>基本・基礎から個のスキルアップを目指す<strong>「チャレンジクラス」</strong>、
+                                実践・応用から個のスキルアップだけでなくチームプレイに必要なバスケIQを学び育成を目的とした<strong>「エリートクラス」</strong>、
+                                ボールと一緒に楽しみながら体を動かし、初心者のお子さまから通える<strong>「キッズクラス」</strong>など
+                                スキルや目的に応じてクラスを選択いただけます。</p>
                             </div>
                             <div class="col-12">
                                 <div class="txt_btn spacer_top_l" target="osk">
-                                    <p class="bold">ご入会案内はこちら</p>
+                                    <p class="bold">ご入会案内・詳細はこちら</p>
                                 </div>
                             </div>
                         </div>
@@ -111,6 +114,7 @@ get_header();
                                             </table>
                                             <p class="spacer_top_s">※スポーツ保険は年度ごとに更新となります。</p>
                                             <p>※お支払いはクレジットカード決済のみとなります。<br />（別途手数料200円を頂戴します。）</p>
+                                            <p>※堺校は不定期開催のため、参加ごとに現金払1,000円となります。</p>
                                         </div>
                                     </div>
                                 </div>
@@ -141,6 +145,17 @@ get_header();
                                                 </div>
                                             </div>
                                             <div class="downbox">
+                                                <p class="title bk_gray relative arrow">堺校（毎週水曜日）</p>
+                                                <div class="downcontent">
+                                                    <p>
+                                                        会場：堺市近郊の体育館<br />
+                                                        U-12：17:50 - 19:20<br />
+                                                        U-15：19:20 - 21:10<br />
+                                                        駐車場：台数に限りあり
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="downbox">
                                                 <p class="title bk_gray relative arrow">寝屋川校（毎週木曜日）</p>
                                                 <div class="downcontent">
                                                     <p>
@@ -162,17 +177,6 @@ get_header();
                                                     </p>
                                                 </div>
                                             </div>
-                                            <div class="downbox">
-                                                <p class="title bk_gray relative arrow">堺校（不定期）</p>
-                                                <div class="downcontent">
-                                                    <p>
-                                                        会場：堺市近郊の体育館<br />
-                                                        U-12：お問い合わせください。<br />
-                                                        U-15：お問い合わせください。<br />
-                                                        駐車場：お問い合わせください。
-                                                    </p>
-                                                </div>
-                                            </div>
                                         </div>        
                                     </div>
                                 </div>
@@ -187,6 +191,26 @@ get_header();
                                         </div>
                                     </div>
                                 </div>
+                                <div class='col-12 col-md-6 spacer_top_m'>
+                                <div class="card">
+                                    <h4 class="bold">まずは体験してみよう</h4>
+                                    <div class="contents">
+                                        <p class="">
+                                        入会を決める前に、スクールを無料体験することができます。ご希望の方はお問合せフォーム内容に下記項目を記入の上、ご連絡ください。
+                                        </p>
+                                        <p class="bold">
+                                            ・学年<br/>
+                                            ・性別<br/>
+                                            ・お子様の名前（フリガナ）<br/>
+                                            ・参加希望校<small>※各校１回ずつ体験可能</small><br/>
+                                            ・希望日<br/>
+                                        </p>
+                                        <div class="kagobtn">
+		    					            <a href="/contact" target="_blank">お問合せはこちら</a>
+			    			            </div>
+                                    </div>
+                                </div>
+                            </div>
                             </div>
                         </div>
                         <div id="elite">
@@ -223,7 +247,7 @@ get_header();
                                                     <td>1,000円</td>
                                                 </tr></tbody>
                                             </table>
-                                            <p class="spacer_top_s">※スポーツ保険は年度ごとに更新となります。</p>
+                                            <p class="spacer_top_s">※スポーツ保険/年会費は年度ごとに更新となります。</p>
                                             <p>※お支払いはクレジットカード決済のみとなります。<br />（別途手数料200円を頂戴します。）</p>
                                         </div>
                                     </div>
@@ -269,7 +293,8 @@ get_header();
                                                     <p>
                                                     会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
                                                     時間：19:00 - 21:00<br />
-                                                    駐車場：あり
+                                                    駐車場：あり<br />
+                                                    備考 : 18:00からスキルアップレッスンあり
                                                     </p>
                                                 </div>
                                             </div>
@@ -291,7 +316,7 @@ get_header();
                                         <h4 class="bold">その他</h4>
                                         <div class="contents">
                                             <p class="">
-                                            ・他のクラスのスポット受講可能です。<br />（¥1,000/回を担当コーチに現金でお支払いください。）<br />・特待生制度あり。
+                                            ・他のクラスのスポット受講可能です。<br />（¥2,000/回を担当コーチに現金でお支払いください。）<br />・特待生制度あり。
                                             </p>
                                         </div>
                                     </div>
@@ -340,17 +365,7 @@ get_header();
                                 <div class='col-12 spacer_top_m'>
                                     <div class="card">
                                         <h4 class="bold">各校紹介</h4>
-                                        <div class="contents d-flex flex-wrap flex-column flex-lg-row">
-                                            <div class="downbox">
-                                                <p class="title bk_gray relative arrow">堺校（不定期:水曜日）</p>
-                                                <div class="downcontent">
-                                                    <p>
-                                                    会場：<a href="../facility/#skillslabo">KAGO SKILLS LABO</a><br />
-                                                    時間：17:00 - 18:00<br />
-                                                    駐車場：あり
-                                                    </p>
-                                                </div>
-                                            </div>
+                                        <div class="contents d-flex flex-wrap flex-column flex-lg-row"> 
                                             <div class="downbox">
                                                 <p class="title bk_gray relative arrow">堺校（不定期:土曜、日曜日）</p>
                                                 <div class="downcontent">
@@ -376,6 +391,26 @@ get_header();
                                         </div>
                                     </div>
                                 </div>
+                                <div class='col-12 col-md-6 spacer_top_m'>
+                                <div class="card">
+                                    <h4 class="bold">まずは体験してみよう</h4>
+                                    <div class="contents">
+                                    <p class="">
+                                        入会を決める前に、スクールを無料体験することができます。ご希望の方はお問合せフォーム内容に下記項目を記入の上、ご連絡ください。
+                                        </p>
+                                        <p class="bold">
+                                            ・学年<br/>
+                                            ・性別<br/>
+                                            ・お子様の名前（フリガナ）<br/>
+                                            ・参加希望校<small>※各校１回ずつ体験可能</small><br/>
+                                            ・希望日<br/>
+                                        </p>
+                                        <div class="kagobtn">
+		    					            <a href="/contact" target="_blank">お問合せはこちら</a>
+			    			            </div>
+                                    </div>
+                                </div>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -438,7 +473,7 @@ get_header();
                             </div>
                             <div class="col-12 col-lg-5 offset-lg-7">
                                 <div class="txt_btn spacer_top_l" target="fuk">
-                                    <p class="bold">ご入会案内はこちら</p>
+                                    <p class="bold">ご入会案内・詳細はこちら</p>
                                 </div>
                             </div>
                         </div>
@@ -548,6 +583,26 @@ get_header();
                                     </div>
                                 </div>
                             </div>
+                            <div class='col-12 col-md-6 spacer_top_m'>
+                                <div class="card">
+                                    <h4 class="bold">まずは体験してみよう</h4>
+                                    <div class="contents">
+                                    <p class="">
+                                        入会を決める前に、スクールを無料体験することができます。ご希望の方はお問合せフォーム内容に下記項目を記入の上、ご連絡ください。
+                                        </p>
+                                        <p class="bold">
+                                            ・学年<br/>
+                                            ・性別<br/>
+                                            ・お子様の名前（フリガナ）<br/>
+                                            ・参加希望校<small>※各校１回ずつ体験可能</small><br/>
+                                            ・希望日<br/>
+                                        </p>
+                                        <div class="kagobtn">
+		    					            <a href="/contact" target="_blank">お問合せはこちら</a>
+			    			            </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -608,7 +663,7 @@ get_header();
                             </div>
                             <div class="col-12 col-lg-12">
                                 <div class="txt_btn spacer_top_l" target="tok">
-                                    <p class="bold">ご入会案内はこちら</p>
+                                    <p class="bold">ご入会案内・詳細はこちら</p>
                                 </div>
                             </div>
                         </div>

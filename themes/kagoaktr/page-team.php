@@ -55,12 +55,12 @@ get_header();
                                     U-12男女（小学生）U-15男女（中学生）で活動しています。校区や学年に関わらず意識の高いメンバーで構成されています。県内外問わず試合や大会などに積極的に参加し、高校との交流も盛んに行なっております。
                                 </p>
                                 <p class="spacer_top_s">
-                                U-15男子チームは、2019年の全国ジュニアバスケットボールゲームズ（通称：全クラ）で日本一に輝きました。
+                                U-15は、2019年（男子）2021年（女子）の全国ジュニアバスケットボールゲームズ（通称：全クラ）で日本一に輝きました。またユース・クラブチーム・中学校のカテゴリーが集まった2021年（男子）のジュニアウィンター カップでは、見事準優勝を掴みました。
                                 </p>
                             </div>
                             <div class="col-12">
                                 <div class="txt_btn spacer_top_l" target="osk">
-                                    <p class="bold">ご入会案内はこちら</p>
+                                    <p class="bold">ご入会案内・詳細はこちら</p>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@ get_header();
                                     </div>
                                 </div>
                             </div>
-                            <div class='col-12 col-md-6 spacer_top_m'>
+                            <!-- <div class='col-12 col-md-6 spacer_top_m'>
                                 <div class="card">
                                     <h4 class="bold">練習日・練習場所</h4>
                                     <div class="contents">
@@ -120,7 +120,7 @@ get_header();
                                         <p class="spacer_top_s">住吉公園体育館、<a href="<?php echo esc_url( home_url( '/' ) ).'facility/#skillslabo'; ?>">KAGO SKILLS LABO</a>、堺市近郊の体育館を利用しています。</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class='col-12 col-md-6 spacer_top_m'>
                                 <div class="card">
                                     <h4 class="bold">会費</h4>
@@ -128,7 +128,7 @@ get_header();
                                         <table>
                                             <thead>
                                                 <tr class="bk_blue color_white">
-                                                    <td colspan='4'>チーム（週末）</td>
+                                                    <td colspan='4'>U-12、U-15 共通</td>
                                                 </tr>
                                             </thead>
                                             <tbody><tr class="bk_gray">
@@ -139,36 +139,91 @@ get_header();
                                             </tr><tr>
                                                 <td>10,000円</td>
                                                 <td>5,000円</td>
-                                                <td>6,000円</td>
+                                                <td>プラン参照</td>
                                                 <td>1,000円</td>
                                             </tr></tbody>
                                         </table>
-                                        <table class="spacer_top_s">
-                                            <thead>
-                                                <tr class="bk_blue color_white">
-                                                    <td colspan='4'>受け放題：チーム（週末）＋ スクール（平日）</td>
-                                                </tr>
-                                            </thead>
-                                            <tbody><tr class="bk_gray">
-                                                <th>入会金</th>
-                                                <th>年会費</th>
-                                                <th>月謝</th>
-                                                <th>スポーツ保険</th>
-                                            </tr><tr>
-                                                <td>10,000円</td>
-                                                <td>5,000円</td>
-                                                <td>15,000円</td>
-                                                <td>1,000円</td>
-                                            </tr></tbody>
-                                        </table>
-                                        <p class="spacer_top_s">※お支払いは、クレジットカード決済となります。<br />（別途手数料200円を頂戴します。）</p>
-                                        <p>※KAGO CLUB U-12は、受け放題が適応できません。</p>
+                                        <p class="spacer_top_s">※年会費、スポーツ保険は年度ごとに更新となります。</p>
+                                        <p>※お支払いは、クレジットカード決済となります。<br />（別途手数料200円を頂戴します。）</p>
+                                        <!-- <p>※KAGO CLUB U-12は、受け放題が適応できません。</p> -->
                                         <p class="spacer_top_s">■その他</p>
-                                        <p>・平日のスクール受講が可能です。（その場合、月謝のみ加算されます。）</p>
-                                        <p>・平日のスクールのスポット受講が可能です。（チャレンジクラス1,000円 / エリートクラス2,000円を担当コーチにお支払いください。）</p>
+                                        <p>・平日開催のスクールがスポットで受講可能です。（チャレンジクラス1,000円 / エリートクラス2,000円を担当コーチにお支払いください。）</p>
                                     </div>
                                 </div>
                             </div>
+                            <div class='col-12 spacer_top_m'>
+                                <div class="card">
+                                    <h4 class="bold">選べる練習プラン</h4>
+                                    <div class="contents">
+                                        <table class="plans_tbl">
+                                            <thead>
+                                                <tr class="bk_blue color_white">
+                                                    <td colspan='4'>U-12</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody><tr>
+                                                <th>練習日</th>
+                                                <td colspan='4' class="center">毎週　土曜・日曜</td>
+                                            </tr><tr>
+                                                <th>平日</th>
+                                                <td colspan='4' class="center">なし</td>
+                                            </tr><tr>
+                                                <th>オンライントレーニング</th>
+                                                <td colspan='4' class="center">なし</td>
+                                            </tr><tr>
+                                                <th>KAGO SKILLS LABO</th>
+                                                <td colspan='4' class="center">500円で何時間でも使い放題</td>
+                                            </tr><tr>
+                                                <th>月謝</th>
+                                                <td colspan='4'>6,000円</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                        <div class="scrollable">
+                                        <table class="plans_tbl spacer_top_m">
+                                            <thead>
+                                                <tr class="bk_blue color_white">
+                                                    <td colspan='5'>U-15</td>
+                                                </tr>
+                                            </thead>
+                                            <tbody><tr class="bk_gray">
+                                                <th></th>
+                                                <td class="hd">プラン①</td>
+                                                <td class="hd">プラン②<br /><small>堺エリア</small></td>
+                                                <td class="hd">プラン③<br /><small>北摂エリア</small></td>
+                                                <td class="hd">プラン④<br /><small>受け放題</small></td>
+                                            </tr><tr>
+                                                <th class="hd">練習日</th>
+                                                <td colspan='4' class="center">毎週　土曜・日曜</td>
+                                            </tr><tr>
+                                                <th class="hd">平日</th>
+                                                <td class="hd">なし</td>
+                                                <td class="hd">水・金<br /><small><a href="../school/#OSAKA">エリートコース堺校</a></small></td>
+                                                <td class="hd">月・木<br /><small><a href="../school/#OSAKA">エリートコース茨木校</a></small></td>
+                                                <td class="hd">月・水・木・金<br /><small><a href="../school/#OSAKA">エリートコース堺校/茨木校</a></small></td>
+                                            </tr><tr>
+                                                <th class="hd">オンライントレーニング</th>
+                                                <td colspan='4' class="center">毎週火曜 19:00~21:00</td>
+                                            </tr><tr>
+                                                <th>KAGO SKILLS LABO</th>
+                                                <td colspan='4' class="center">500円で何時間でも使い放題</td>
+                                            </tr><tr>
+                                                <th class="hd">月謝</th>
+                                                <td>8,000円</td>
+                                                <td>12,000円</td>
+                                                <td>12,000円</td>
+                                                <td>15,000円</td>
+                                            </tr>
+                                            </tbody>
+                                        </table></div>
+                                        <p class="spacer_top_s">※U-15のオンライントレーニングはプロのトレーナーが指導します。<br />参加できなくても後日アーカイブで見直せます。</p>
+                                        <p>※シューティングマシンやトレーニングルームを完備している<a href="../facility/#skillslabo">KAGO SKILLS LABO</a>を何時間でも使用できます。</p>
+                                        <p>※プラン以外の日に受講したい場合は、スポット受講も可能です。（別途:2,000円/回 現金払い)</p>
+                                        <p>途中でプランの変更も可能です。</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
                             <div class='col-12 col-md-6 spacer_top_m'>
                                 <div class="card">
                                     <h4 class="bold">過去の実績</h4>
@@ -178,13 +233,15 @@ get_header();
                                         ・大阪府ジュニアクラブ選手権：優勝（5回）<br />
                                         ・近畿ジュニアクラブ選手権：優勝（2回）ベスト4（1回）ベスト8（1回）<br />
                                         ・全国ジュニアクラブ選手権：優勝（1回）準優勝（1回）ベスト4（1回）<br />
-                                        ・2019全国U15バスケットボール選手権プレ大会大阪府予選：優勝
+                                        ・2019全国U15バスケットボール選手権プレ大会大阪府予選：優勝<br />
+                                        ・2021全国U15バスケットボール選手権大会大阪府予選：優勝<br />
+                                        ・2021全国U15バスケットボール選手権大会：準優
                                         </p>
                                         <p class="spacer_top_s">
                                         ●女子（平成26年〜令和2年度）<br />
                                         ・大阪府ジュニアクラブ選手権：優勝（5回）<br />
                                         ・近畿ジュニアクラブ選手権：ベスト4（1回）ベスト8（1回）<br />
-                                        ・全国ジュニアクラブ選手権：ベスト4（1回）ベスト16（2回）
+                                        ・全国ジュニアクラブ選手権：優勝（1回）ベスト4（1回）ベスト16（2回）
                                         </p>
                                     </div>
                                 </div>
@@ -273,7 +330,7 @@ get_header();
                             </div>
                             <div class="col-12 col-lg-5 offset-lg-7">
                                 <div class="txt_btn spacer_top_l" target="fuk">
-                                    <p class="bold">ご入会案内はこちら</p>
+                                    <p class="bold">ご入会案内・詳細はこちら</p>
                                 </div>
                             </div>
                         </div>
